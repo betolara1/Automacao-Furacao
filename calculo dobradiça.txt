@@ -1,0 +1,11 @@
+2 dobradiças
+1° (0 + 100) --- 2° (LARGURA_TOTAL - 100)
+
+3 dobradiças (> 900mm e <= 1600mm ou > 2200mm)
+1 no meio da peça
+
+4 dobradiças (> 1600 e <= 2200)
+((largura total - 200) / 3) + 100
+
+5 dobradiças (> 2200)
+((largura total - 200) / 4) + 100
